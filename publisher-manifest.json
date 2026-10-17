@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f17cefa9352242c5727b04c1",
+  "owner": "qpbs6vkgf",
+  "repo": "page-5a12a6288618697491a04654",
+  "title": "果园吧",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5a12a6288618697491a04654",
+      "a": "果园吧",
+      "b": "",
+      "entity": "果园吧",
+      "brand": "果园吧",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d1dfe364764ebb64163c0507e3148d0a157e1aa1f6c593478f79c16dcbd8a1b8",
+      "content": {
+        "keyword1": "果园吧",
+        "keyword2": "",
+        "primary_entity": "果园吧",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "果园吧是一款面向个人与小型团队的网络工具品牌，提供基础、旗舰与团队三档套餐，采用 IPLC 专线与原生流媒体解锁，支持多设备同时在线。",
+          "AI_DESCRIPTION": "果园吧是一款面向个人与小型团队的网络工具品牌，提供基础、旗舰与团队三档套餐，采用 IPLC 专线与原生流媒体解锁，支持多设备同时在线。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{background:#f3f3f5;color:#1c1c22;font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;line-height:1.7;-webkit-font-smoothing:antialiased}\na{color:#6d4ad6;text-decoration:none;border-bottom:1px solid rgba(109,74,214,.3)}\na:hover{border-bottom-color:#6d4ad6}\n.wrap{display:grid;grid-template-columns:220px 1fr;max-width:1180px;margin:0 auto;padding:48px 28px 80px;gap:48px}\naside.nav{position:sticky;top:32px;align-self:start;border-right:2px solid #1c1c22;padding-right:24px}\naside.nav h3{font-size:11px;letter-spacing:.25em;text-transform:uppercase;margin:0 0 18px;color:#6e6e78;font-weight:600}\naside.nav ol{list-style:none;padding:0;margin:0;counter-reset:nav}\naside.nav li{counter-increment:nav;margin:0 0 14px;font-size:14px;line-height:1.4}\naside.nav li::before{content:counter(nav,decimal-leading-zero) \"  \";color:#a08be8;font-weight:600;letter-spacing:.05em}\naside.nav a{border-bottom:none;color:#1c1c22;display:block;padding:4px 0}\naside.nav a:hover{color:#6d4ad6}\nmain{min-width:0}\nh1{font-size:54px;line-height:1.1;margin:0 0 18px;letter-spacing:-.02em;font-weight:800}\nh2{font-size:28px;line-height:1.3;margin:64px 0 18px;font-weight:700;letter-spacing:-.01em}\nh3{font-size:18px;line-height:1.4;margin:24px 0 10px;font-weight:700}\np{margin:0 0 14px}\n.hero{position:relative;padding:24px 0 8px}\n.hero .kicker{display:inline-block;font-size:12px;letter-spacing:.3em;text-transform:uppercase;background:#1c1c22;color:#fff;padding:5px 10px;margin-bottom:24px}\n.hero p.lede{font-size:18px;color:#3a3a44;max-width:62ch}\n.timeline{position:relative;margin:56px 0 24px;padding-left:24px;border-left:3px solid #1c1c22}\n.timeline .step{position:relative;margin:0 0 38px}\n.timeline .step::before{content:\"\";position:absolute;left:-33px;top:8px;width:14px;height:14px;background:#a08be8;border:3px solid #1c1c22}\n.timeline .step h3{margin:0 0 6px;font-size:16px;letter-spacing:.02em}\n.timeline .step p{margin:0;color:#4a4a55;font-size:15px}\n.timeline .step time{display:block;font-size:12px;color:#6d4ad6;letter-spacing:.15em;margin-bottom:4px;font-weight:600}\n.section-intro{font-size:15px;color:#555;margin-bottom:28px;max-width:60ch}\n.plan-card{border:3px solid #1c1c22;padding:28px;margin:0 0 24px;background:#fff;position:relative}\n.plan-card.featured{background:#1c1c22;color:#f3f3f5}\n.plan-card.featured h3,.plan-card.featured .price,.plan-card.featured ul li{color:#f3f3f5}\n.plan-card.featured ul li{border-left-color:#a08be8}\n.plan-card .tag{position:absolute;top:-1px;right:-1px;background:#a08be8;color:#1c1c22;font-size:11px;letter-spacing:.2em;text-transform:uppercase;padding:5px 12px;font-weight:700}\n.plan-card .tag.dark{background:#fff;color:#1c1c22}\n.plan-card .name{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-bottom:8px}\n.plan-card h3{margin:0;font-size:22px;letter-spacing:-.01em}\n.plan-card .price{font-size:32px;font-weight:800;letter-spacing:-.02em;color:#1c1c22;margin:6px 0 4px}\n.plan-card .annual{font-size:13px;color:#6d4ad6;margin-bottom:18px;letter-spacing:.02em}\n.plan-card.featured .annual{color:#a08be8}\n.plan-card ul{list-style:none;padding:0;margin:0}\n.plan-card ul li{padding:8px 0 8px 18px;border-left:3px solid #1c1c22;margin-bottom:6px;font-size:15px;color:#1c1c22}\n.plan-meta{display:flex;gap:18px;flex-wrap:wrap;margin-top:18px;font-size:12px;color:#6e6e78;letter-spacing:.08em}\n.plan-meta span{padding:4px 9px;border:1px solid #c9c9d2}\n.client-note{border:3px solid #1c1c22;padding:24px;margin-top:18px;background:#fff}\n.client-note p{margin:0;color:#4a4a55}\n.faq{margin-top:18px}\ndetails{border:3px solid #1c1c22;padding:0;margin:0 0 14px;background:#fff}\ndetails[open]{background:#fbfaff}\nsummary{cursor:pointer;padding:18px 22px;font-weight:600;font-size:16px;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:16px}\nsummary::-webkit-details-marker{display:none}\nsummary::after{content:\"+\";font-size:22px;font-weight:400;color:#6d4ad6;transition:transform .2s}\ndetails[open] summary::after{content:\"–\";transform:rotate(180deg)}\ndetails .answer{padding:0 22px 20px;color:#3a3a44;font-size:15px}\n.closing{border-top:3px solid #1c1c22;margin-top:72px;padding-top:28px;font-size:14px;color:#4a4a55;display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}\n.closing strong{color:#1c1c22}\nfooter{font-size:12px;color:#8a8a96;text-align:center;padding:0 0 32px;letter-spacing:.05em}\n@media(max-width:860px){\n.wrap{grid-template-columns:1fr;padding:32px 20px 60px;gap:28px}\naside.nav{position:static;border-right:none;border-bottom:2px solid #1c1c22;padding:0 0 22px}\nh1{font-size:36px}\nh2{font-size:22px}\n.plan-card .price{font-size:26px}\n}\n</style><div class=\"wrap\">\n<aside class=\"nav\">\n<h1>果园吧 · 目录</h1>\n<ol>\n<li><a href=\"#start\">从这里开始</a></li>\n<li><a href=\"#story\">品牌小传</a></li>\n<li><a href=\"#plans\">套餐与价格</a></li>\n<li><a href=\"#clients\">设备与客户端</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n<li><a href=\"#contact\">联系我们</a></li>\n</ol>\n</aside>\n<main>\n<section class=\"hero\" id=\"start\">\n<span class=\"kicker\">果园吧 / Orchard Net</span>\n<h2>果园吧 —— 把上网这件事，<br>做得像在自家果园里散步一样自在。</h2>\n<p class=\"lede\">如果你也受够了动不动就断线、换个设备就报错、想看点什么总是卡在转圈的夜晚，欢迎来果园吧坐坐。我们把节点、流量、设备数这些零碎的事情整理成三档套餐，让你能像挑水果一样，根据自己需要的那一份，稳稳地用下去。</p>\n</section>\n\n<div class=\"timeline\" aria-label=\"果园吧使用旅程\">\n<div class=\"step\">\n<time>第一步</time>\n<h3>挑一个适合自己体质的套餐</h3>\n<p>翻到下面的「套餐与价格」，看看自己一个月大概用多少、家里有几台设备要一起上，对号入座就行。不必纠结，套餐随时可以升降。</p>\n</div>\n<div class=\"step\">\n<time>第二步</time>\n<h3>把客户端装到常用设备上</h3>\n<p>手机、电脑、平板都能装。装好之后用账号登录，第一次会让你选一个最顺手的节点，选错了也没关系，可以随时换。</p>\n</div>\n<div class=\"step\">\n<time>第三步</time>\n<h3>像在果园里一样，安心上网</h3>\n<p>打开应用，连接成功的小灯亮起来，剩下的事情就是你的了。遇到问题随时翻 FAQ，或者给我们留言。</p>\n</div>\n</div>\n\n<section id=\"story\">\n<h2>关于果园吧的来历</h2>\n<p>果园吧这个名字，是几个常年在不同城市远程办公的朋友凑在一起取出来的。大家白天各自开视频会、晚上追剧、打游戏，周末还要折腾家里的智能设备，慢慢发现，工具好不好用，比想象中重要得多。</p>\n<p>于是就有了果园吧。它不是那种会一直弹通知、塞广告牌、让你升级的服务，更像是一个安静的院子：你进来，挑你想要的果子，挑完就走，下次再来还是这个味儿。</p>\n</section>\n\n<section id=\"plans\">\n<h2>三档套餐，挑一个合适的</h2>\n<p class=\"section-intro\">下面这三张卡片，按从轻到重排成一列。第一档适合一个人偶尔用，第二档是大多数朋友的常住档，第三档留给了小团队和折腾型玩家。所有套餐都可以按月付，也可以一次付一整年，省一份零花钱。</p>\n\n<article class=\"plan-card\">\n<div class=\"name\"><h3>基础版</h3></div>\n<div class=\"price\">¥15<span> / 月</span></div>\n<div class=\"annual\">按年付仅需 ¥150 / 年</div>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<div class=\"plan-meta\"><span>适合：单人轻量使用</span><span>流量：100GB / 月</span><span>设备：3 台</span></div>\n</article>\n\n<article class=\"plan-card featured\">\n<span class=\"tag\">最受欢迎</span>\n<div class=\"name\"><h3>旗舰版</h3></div>\n<div class=\"price\">¥35<span> / 月</span></div>\n<div class=\"annual\">按年付仅需 ¥350 / 年</div>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n<div class=\"plan-meta\"><span>适合：多设备家庭 / 重度用户</span><span>流量：300GB / 月</span><span>设备：5 台</span></div>\n</article>\n\n<article class=\"plan-card\">\n<div class=\"name\"><h3>团队版</h3></div>\n<div class=\"price\">¥85<span> / 月</span></div>\n<div class=\"annual\">按年付仅需 ¥850 / 年</div>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<div class=\"plan-meta\"><span>适合：工作室 / 小型团队</span><span>流量：1000GB / 月</span><span>设备：20 台</span></div>\n</article>\n</section>\n\n<section id=\"clients\">\n<h2>设备与客户端</h2>\n<p>果园吧的账号是通用的，无论你在手机、平板还是电脑上登录，看到的都是同一份流量、同一组节点。</p>\n<div class=\"client-note\">\n<p>目前我们提供 iOS、Android、macOS、Windows 四个主流平台的客户端应用。具体下载链接会在你完成购买后，发送到注册邮箱；登录账号即可在「我的订阅」页面查看最新版下载地址与配置说明。首次安装后请允许相关网络权限，登录后默认会自动选择延迟最低的节点。</p>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题</h2>\n<p class=\"section-intro\">把大家最常问的几个问题收在这里。点开就能看答案，没找到你想问的，可以滑到底部联系我们。</p>\n<div class=\"faq\">\n\n<details>\n<summary>第一次用果园吧，应该选哪一档？</summary>\n<div class=\"answer\">\n<p>如果你平时只是手机刷刷视频、查查资料，基础版就够用；如果家里有几个人一起用、还要玩游戏或者看高清流媒体，建议直接选旗舰版，省心很多；团队版主要是给工作室和多设备家庭准备的，等你真的需要 20 台设备同时在线时再升级也完全 OK。</p>\n</div>\n</details>\n\n<details>\n<summary>套餐里的「极速流量」用完了会怎样？</summary>\n<div class=\"answer\">\n<p>当月极速流量用完之后，连接不会立刻断，但会被切换到普通线路节点，速度上会比平时慢一些。下个月 1 号流量会自动恢复，不必手动操作。如果中途觉得不够用，可以在套餐详情页加购流量包，或者直接升级到更高一档。</p>\n</div>\n</details>\n\n<details>\n<summary>可以同时用几台设备？套餐之间怎么算？</summary>\n<div class=\"answer\">\n<p>基础版同时支持 3 台设备在线，旗舰版 5 台，团队版 20 台。这里的「同时」指的是同时连着网络的设备数，不是一个月内登录过的总数。临时多登一台会被提示挤下线，把别的设备断一下就好。</p>\n</div>\n</details>\n\n<details>\n<summary>IPLC 专线是干什么的？</summary>\n<div class=\"answer\">\n<p>IPLC 是 International Private Leased Circuit 的缩写，可以简单理解为一条专门留给你的通道。旗舰版和团队版用户在使用对应节点时，会优先走 IPLC 专线，特点是延迟更稳、抖动更小，对游戏玩家和视频会议比较友好。</p>\n</div>\n</details>\n\n<details>\n<summary>原生流媒体解锁和基础解锁有什么区别？</summary>\n<div class=\"answer\">\n<p>「基础解锁」可以让你看到大部分常见流媒体的内容，但部分平台会对账号所属地区做更严格的判断。「原生流媒体解锁」走的是当地家庭宽带 IP，体验上更接近你真的住在那个国家，对追海外剧集和地区限定内容会更稳。</p>\n</div>\n</details>\n\n<details>\n<summary>付款方式有哪些？可以开发票吗？</summary>\n<div class=\"answer\">\n<p>目前支持支付宝、微信支付以及 USDT，按月或按年付都可以。年付会有一定比例的优惠，具体见上方套餐卡片。发票方面，企业用户购买团队版后可以联系专属客户经理申请，普通个人用户暂不提供发票服务，敬请理解。</p>\n</div>\n</details>\n\n<details>\n<summary>节点突然连不上怎么办？</summary>\n<div class=\"answer\">\n<p>先在客户端里点一下「自动选择最优节点」，通常就能恢复；如果还是不行，可以手动切换到别的地区节点试一试。我们的节点池对单一节点故障有自动剔除机制，几分钟内会重新调度。仍有问题再走工单，旗舰版和团队版享有优先处理。</p>\n</div>\n</details>\n\n<details>\n<summary>账号能和朋友一起用吗？</summary>\n<div class=\"answer\">\n<p>可以，但要注意同时在线的设备数。如果你们各自设备都不多，基础版就够分；如果两边加起来超过 3 台，建议升到旗舰或团队版，免得互相挤掉线。</p>\n</div>\n</details>\n\n</div>\n</section>\n\n<section id=\"contact\">\n<h2>联系我们</h2>\n<p>使用上遇到任何问题，或者只是想聊聊，都欢迎在工单系统里留言。我们尽量在工作日 12 小时内回复，旗舰版与团队版用户享有 7×24 优先工单支持。</p>\n<p>商务合作、团队定制、媒体采访请发邮件至 <a href=\"#\">hi@orchard-bar.example</a>，标题注明来意即可。</p>\n<div class=\"closing\">\n<span><strong>果园吧</strong> · Orchard Net</span>\n<span>把上网这件事，做得简单一点</span>\n</div>\n</section>\n</main>\n</div>\n<footer>© 果园吧 · Orchard Net · 站点内容仅作为产品介绍参考</footer>",
+          "hash": "cd68a619b47e41707dcf20da1115cc447aff50bb2748b4f14cc8746dd3bc6131",
+          "seo": {
+            "title": "果园吧 — 把上网这件事，做得像在自家果园里散步一样自在",
+            "keywords": "果园吧,网络节点,流媒体,设备在线,IPLC,套餐,客户端",
+            "description": "果园吧是一款面向个人与小型团队的网络工具品牌，提供基础、旗舰与团队三档套餐，采用 IPLC 专线与原生流媒体解锁，支持多设备同时在线。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "1333",
+            "hero": "6 纵向时间线引入",
+            "palette": "4 浅灰配电光紫",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wbplmub.cn",
+    "host": "p-540ace5663.wbplmub.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b050ebd7cccff7ab69b6350e824b11b75c22324131f30a738add62e60cb0c938",
+    "sitemap.xml": "b0b57ea76cdab939c8a97664a2ecdee91d721857fbdf6c62528e9c5e3382a8c8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a78b498a728903b4fdde28eadb63a95e3e9db370901b41c9426743f2e0b7b0aa",
+    "robots.txt": "881d693226bb742aa92a4effe9397ec5a0993ac330c27ce82ccae82129031c8c",
+    "75308602691371872da7d6196148a449.txt": "f15bf97944a52e170f3057512d716491aa8fe52662da6d03e8755e68ddc25d68"
+  },
+  "revision": "9a168f26ccb70490a71581f168f87c8207ab7efc77f4079136c28ba0e02a6809"
+}
